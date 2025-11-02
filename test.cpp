@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <iostream>
 
 int main(void)
 {
-    printf("Hello World");
+    std::cout << sizeof(int);
     return 0;
 }
