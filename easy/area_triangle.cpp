@@ -13,4 +13,5 @@ int main(void)
     cout << "Area of the triangle with the given dimensions is  " << area;
 
     return 0;
+    
 }
